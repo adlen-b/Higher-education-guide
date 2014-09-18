@@ -1,2 +1,2 @@
-Higher-education-guide
+Hello world
 ======================
